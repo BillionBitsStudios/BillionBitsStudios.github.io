@@ -1,0 +1,11 @@
+.background-crystal {
+    background-image: url("/img/Background.png");
+}
+
+hr {
+  width: 30%;
+}
+
+.vertical-align {
+  vertical-align: middle;
+}
